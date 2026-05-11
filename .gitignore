@@ -1,0 +1,18 @@
+# Variáveis de ambiente locais — NUNCA commitar
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Servidor de desenvolvimento local
+server.js
+
+# Editor
+.vscode/
+*.code-workspace
