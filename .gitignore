@@ -10,6 +10,9 @@
 .DS_Store
 Thumbs.db
 
+# Servidor de desenvolvimento local
+server.js
+
 # Editor
 .vscode/
 *.code-workspace
